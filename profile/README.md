@@ -9,4 +9,4 @@ Uma equipe de capture the flag (CTF) e cybersegurança formada por alunos da Uni
 <a href="https://www.instagram.com/hawksec_/" target="_blank"><img src="https://github.com/HawkSecUnifei/.github/blob/main/icons/instagram-hawk.png" height = 40 length = 40 target="_blank"></a>
 
 ## Fale conosco:
-Email : `hawksec.unifei@proton.me`
+Email -> `hawksec.unifei@proton.me`
