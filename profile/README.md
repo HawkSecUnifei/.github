@@ -1,4 +1,4 @@
-# We are HawkSec.
+# We are HawkSec UNIFEI.
 
 Somos uma equipe formada por alunos da Universidade Federal de Itajubá. Nos dedicamos nas competições de CTFs (Capture The Flag), uma modalidade desafiadora de hacking. Nossa principal missão é conscientizar a sociedade sobre a importância da segurança digital e promover a adoção de práticas de proteção online.
 
@@ -21,7 +21,7 @@ Participamos ativamente de eventos de CTF, nos quais procuramos identificar e co
 
 ## Fale Conosco
 <div> 
- <a href="https://www.instagram.com/hawksec_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/hawksec_unifei/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="mailto:hawksec.unifei@proton.me"> <img src = "https://img.shields.io/badge/ProtonMail-3d5a80?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/company/hawksec" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://linktr.ee/hawksec" target="_blank"> <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
